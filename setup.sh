@@ -1,0 +1,1 @@
+python -m venv .venv && source .venv/bin/activate && pip install torch torchvision matplotlib scikit-learn pandas
